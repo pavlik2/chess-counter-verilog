@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Apr 15 19:59:04 2013
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Web Edition
+Revision Name : add
+Top-level Entity Name : add
+Family : Cyclone II
+Device : EP2C5Q208C8
+Timing Models : Final
+Total logic elements : 314 / 4,608 ( 7 % )
+    Total combinational functions : 314 / 4,608 ( 7 % )
+    Dedicated logic registers : 158 / 4,608 ( 3 % )
+Total registers : 158
+Total pins : 24 / 142 ( 17 % )
+Total virtual pins : 0
+Total memory bits : 0 / 119,808 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 26 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
